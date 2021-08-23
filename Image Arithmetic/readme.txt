@@ -26,3 +26,15 @@ Division :
 
 I(x,y) = A(x,y) / B(x,y) → r = p / q
 
+Five parts-
+
+Image addition
+
+Image Subtraction
+
+Image Difference
+
+Image Multiplication
+
+Image Division
+
